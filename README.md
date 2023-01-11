@@ -4,4 +4,4 @@ Work in progress.............
 Creating a program to scrape data from amazon dynamically.
 
 program is under development right now.. 
-update provide soon!!
+update will provide soon!!
