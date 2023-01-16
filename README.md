@@ -1,7 +1,7 @@
 # Amazon_dynamic_scarping_by_selenium
-Work in progress.............
+Create a program to scrape data from amazon dynamically.
 
-Creating a program to scrape data from amazon dynamically.
+User will enter brand name as a input and also provide specific page numbers they want to scrape.
 
-program is under development right now.. 
-update will provide soon!!
+I user selenium and python to commplete this application.
+
