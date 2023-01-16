@@ -5,3 +5,5 @@ User will enter brand name as a input and also provide specific page numbers the
 
 I user selenium and python to commplete this application.
 
+You guys can use this code and i hope this will help you to understand the concept of selenium and scraping.
+
