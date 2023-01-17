@@ -1,5 +1,5 @@
 # Amazon_static_scarping_by_selenium
-Create a program to scrape data from amazon dynamically.
+Create a program to scrape data from amazon .
 
 User will enter brand name as a input and also provide specific page numbers they want to scrape.
 
